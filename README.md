@@ -4,7 +4,7 @@
 
 A dynamic, interactive portfolio showcasing expertise in test automation, Selenium, Java, and quality assurance engineering. Built with React, Framer Motion, and modern web technologies.
 
-🔗 **Live Demo:** [[Your Portfolio URL](https://harsh2311.netlify.app/)]  
+🔗 **Live Demo:** [(https://harsh2311.netlify.app/)]  
 📧 **Email:** harshkr2134@gmail.com  
 📞 **Phone:** +91 7668443965
 
@@ -47,23 +47,41 @@ A dynamic, interactive portfolio showcasing expertise in test automation, Seleni
 
 ## 📁 Project Structure
 harsh-portfolio/
+
 ├── public/
+
 │ ├── Harsh_Resume.pdf
+
 │ └── index.html
+
 ├── src/
+
 │ ├── components/
+
 │ │ ├── Navbar.jsx
+
 │ │ ├── Hero.jsx
+
 │ │ ├── Skills.jsx
+
 │ │ ├── Projects.jsx
+
 │ │ └── Contact.jsx
+
 │ ├── data/
+
 │ │ ├── projects.js
+
 │ │ └── skills.js
+
 │ ├── App.jsx
+
 │ └── main.jsx
+
 ├── package.json
+
 ├── vite.config.js
+
 └── README.md
 
 By Harsh❤️
